@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: 2010-09-09
 
 Parameters:
-  Name:
+  Name:Francisco Campos App
     Type: String
     Description: Name of the app
 
