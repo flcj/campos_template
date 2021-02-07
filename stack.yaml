@@ -9,12 +9,12 @@ Parameters:
     Type: String
     Description: GitHub Repository URL
 
-  Branch: 
+  Branch: master
     Type: String
     Description: Github Repository Branch
     Default: master
 
-  OauthToken: 
+  OauthToken: flcj/campos_template
     Type: String
     Description: GitHub Repository URL
     NoEcho: true
