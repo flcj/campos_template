@@ -14,7 +14,7 @@ Parameters:
     Description: Github Repository Branch
     Default: master
 
-  OauthToken: flcj/campos_template
+  OauthToken: 
     Type: String
     Description: GitHub Repository URL
     NoEcho: true
