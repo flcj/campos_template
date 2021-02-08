@@ -5,7 +5,7 @@ Parameters:
     Type: String
     Description: Name of the app
 
-  Repository: campostemp
+  Repository: flcj/campostemp
     Type: String
     Description: GitHub Repository URL
 
@@ -14,7 +14,7 @@ Parameters:
     Description: Github Repository Branch
     Default: master
 
-  OauthToken: campostemp
+  OauthToken: flcj/campostemp
     Type: String
     Description: GitHub Repository URL
     NoEcho: true
