@@ -1,20 +1,20 @@
 AWSTemplateFormatVersion: 2010-09-09
 
 Parameters:
-  Name: 
+  Name: Francisco Campos App
     Type: String
     Description: Name of the app
 
-  Repository: 
+  Repository: campostemp
     Type: String
     Description: GitHub Repository URL
 
-  Branch: 
+  Branch: main
     Type: String
     Description: Github Repository Branch
     Default: master
 
-  OauthToken: 
+  OauthToken: campostemp
     Type: String
     Description: GitHub Repository URL
     NoEcho: true
