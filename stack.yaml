@@ -5,7 +5,7 @@ Parameters:
     Type: String
     Description: Name of the app
 
-  Repository: 
+  Repository: campostemp
     Type: String
     Description: GitHub Repository URL
 
