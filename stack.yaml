@@ -9,7 +9,7 @@ Parameters:
     Type: String
     Description: GitHub Repository URL
 
-  Branch: main
+  Branch: master
     Type: String
     Description: Github Repository Branch
     Default: master
